@@ -1,0 +1,30 @@
+[
+	{
+		"id":1,
+		"image": "./assets/images/sales/sale1.png",
+		"title": "Greys Vage",
+		"procent": 20,
+		"remaning": 8
+	},
+	{
+		"id":2,
+		"image": "./assets/images/sales/sale2.png",
+		"title": "Greys Vage",
+		"procent": 20,
+		"remaning": 8
+	},
+	{
+		"id":3,
+		"image": "./assets/images/sales/sale3.png",
+		"title": "Greys Vage",
+		"procent": 25,
+		"remaning": 8
+	},
+	{
+		"id":4,
+		"image": "./assets/images/sales/sale4.png",
+		"title": "Greys Vage",
+		"procent": 20,
+		"remaning": 8
+	}
+]

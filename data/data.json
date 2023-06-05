@@ -1,0 +1,51 @@
+[
+  {
+    "id":1,
+    "image" : "./assets/images/slide1.png",
+    "title": "Cheese Burger",
+    "place": "Burger Arena",
+    "price": "$3.88"
+  },
+  {
+    "id":2,
+    "image" : "./assets/images/slide2.png",
+    "title": "Toffe’s Cake",
+    "place": "Toffe’s Cake",
+    "price": "$4.00"
+  },
+  {
+    "id":3,
+    "image" : "./assets/images/slide3.png",
+    "title": "Dancake",
+    "place": "Cake World",
+    "price": "$1.99"
+  },
+  {
+    "id":4,
+    "image" : "./assets/images/slide4.png",
+    "title": "Crispy Sandwitch",
+    "place": "map-marker-alt",
+    "price": "$3.00"
+  },
+  {
+    "id":5,
+    "image" : "./assets/images/slide5.png",
+    "title": "Thai  Soup",
+    "place": "Foody man",
+    "price": "$2.79"
+  },
+   {
+    "id":6,
+    "image" : "./assets/images/slide5.png",
+    "title": "Thai  Soup",
+    "place": "Foody man",
+    "price": "$2.79"
+  },
+   {
+    "id":7,
+    "image" : "./assets/images/slide2.png",
+    "title": "Toffe’s Cake",
+    "place": "Toffe’s Cake",
+    "price": "$4.00"
+  }
+]

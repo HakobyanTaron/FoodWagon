@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header>
+  	<div class="container header__container">
+  		<div class="logo">
+  			<img src="./assets/images/Logo.png" alt="logo">
+  		</div>
+  		<div>
+  			<p class="header__info">
+  				<strong>Deliver to:</strong>
+  				<img src="./assets/images/location-2.png" alt="location">
+  				<span> Current Location</span>
+  				<strong>Mohammadpur Bus Stand, Dhaka</strong>
+  			</p>
+  		</div>
+  		<div class="header__buttons">
+  			<button class="button button__search button__transparent">
+  				Search food
+  			</button>
+  			<button class="button button__login">
+  				Login
+  			</button>
+  		</div>
+  	</div>
+  </header>
+	<div class="container container__login">
+		<h1>Login</h1>
+		<form autocomplete="off" >
+			<div>
+				<label for="email">Email</label>
+				<input type="email" placeholder="Enter your Email" required>
+			</div>
+				<div>
+					<label for="password">password</label>
+					<input type="password" placeholder="Enter your password" required>
+				</div>
+				<div class="buttons">
+					<button type="submit" >Register</button>
+					<button type="button" id="login" >Login </button>
+				</div>
+					
+		</form>
+	</div>
+		<script src="./js/login.js"></script>
+</body>
+</html>

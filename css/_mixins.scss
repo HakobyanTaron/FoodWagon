@@ -1,0 +1,33 @@
+@mixin MyFlex($ai: stretch, $jc: flex-start, $fd: row) {
+  display: flex;
+  justify-content: $jc;
+  align-items: $ai;
+  flex-direction: $fd;
+}
+
+@mixin Title_default {
+  text-align: center;
+  line-height: 48px;
+  font-weight: 700;
+  font-size: 43px;
+  margin-bottom: 80px;
+}
+
+
+@mixin Items_text_rools {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 8px;
+}
+
+@mixin Sales_remaning_rools() {
+			height: 42px;
+			width: 205px;
+			border-radius: 8px;
+			padding: 8px 16px 8px 16px;
+			color: #F17228;
+			background-color: rgba(241, 114, 40, 0.2);
+}
